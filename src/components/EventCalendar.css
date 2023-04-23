@@ -1,0 +1,13 @@
+.event-view {
+  padding: 2em;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  align-self: center;
+}
